@@ -17,7 +17,7 @@ class User {
     }
 }
 
-public class Main {
+public class HotelManagmentSystem {
     static int amount = 0;
     static int maxBookings = 50;
     static User[] users = new User[maxBookings];
